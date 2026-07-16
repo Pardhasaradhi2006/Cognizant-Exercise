@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Algorithms_Data_Structures/src"/>
+	<classpathentry kind="src" path="Design_Patterns_and_Principles/src"/>
+	<classpathentry kind="src" path="TDD_and_Logging/src"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/byte-buddy-1.14.10.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/byte-buddy-agent-1.14.10.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/junit-platform-console-standalone-1.10.1.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/logback-classic-1.2.11.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/logback-core-1.2.11.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/mockito-core-5.8.0.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/objenesis-3.3.jar"/>
+	<classpathentry kind="lib" path="TDD_and_Logging/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
